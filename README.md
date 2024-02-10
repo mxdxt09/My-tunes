@@ -1,4 +1,4 @@
-# My-tunes
+# My Tunes
 
 It is a website descripting about music application. It is purely made with HTML, CSS.
 
